@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-The first sentence inside this file.
-=======
-# crawlGoodMan
-The Web Crawler from Boot.Dev
->>>>>>> 547f703
+# Crawl_GoodMan
+Website crawler listing all possible paths from a given domain name. 
